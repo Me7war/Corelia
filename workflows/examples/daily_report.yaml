@@ -1,0 +1,14 @@
+name: Daily Report
+steps:
+  - agent: FinanceAgent
+    action: ask
+    input: "Summarize today's financial activity."
+  - agent: HRAgent
+    action: ask
+    input: "List new HR tickets."
+  - agent: ITAgent
+    action: ask
+    input: "Report on IT system status."
+  - agent: SecurityAgent
+    action: ask
+    input: "Any security alerts today?"

@@ -1,0 +1,10 @@
+name: Jira to Slack
+steps:
+  - agent: ITAgent
+    action: use_tool
+    tool: jira
+    input: "Get all open Jira issues assigned to IT."
+  - agent: ITAgent
+    action: use_tool
+    tool: slack
+    input: "Send summary to #it-team."

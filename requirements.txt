@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+python-dotenv
+redis
+qdrant-client
+psycopg2-binary
+slack_sdk
+jira
+PyGithub
+weaviate-client
+requests
+pydantic
+yaml
+openai
