@@ -5,7 +5,7 @@
 	<a href="https://github.com/UnexpectedNull/Corelia"><img src="https://img.shields.io/github/forks/UnexpectedNull/Corelia?style=social" alt="GitHub forks"></a>
 	<a href="https://github.com/UnexpectedNull/Corelia"><img src="https://img.shields.io/github/issues/UnexpectedNull/Corelia" alt="GitHub issues"></a>
 	<br>
-	<a href="https://github.com/UnexpectedNull/Corelia">GitHub Repo</a>
+	<a href="https://github.com/UnexpectedNull/Corelia">🌐 GitHub Repo</a>
 </div>
 
 
